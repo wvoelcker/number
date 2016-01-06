@@ -1,5 +1,5 @@
 <?php
-namespace WillV\Project;
+namespace WillV\Number;
 
 class Number {
 	private $value;
