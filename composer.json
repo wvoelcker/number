@@ -1,0 +1,9 @@
+{
+	"name": "willv/number",
+	"description": "Useful for working with numbers",
+    "autoload": {
+        "psr-4": {
+            "WillV\\Number\\": "src"
+		 }
+	}
+}
